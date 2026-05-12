@@ -27,7 +27,11 @@
 - 系统工具：`unzip`（地图下载用）、`systemctl`/`journalctl`（服务管理用）
 
 ## 快速开始
-
+```bash
+##一句话构建（把这句话发给你的agent）
+https://github.com/bilibiligao/DDNET-PANNEL
+帮我在工作区内跑起一个ddnet服务器，并使用该面板作为管理。
+```
 ### 1. 克隆项目
 
 ```bash
