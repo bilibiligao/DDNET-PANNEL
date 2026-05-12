@@ -2,6 +2,7 @@
 
 基于 React 19 + HeroUI + Vite 6 + Express + WebSocket 的 DDNet 地图服务器 Web 管理面板。
 
+<img width="2319" height="1341" alt="image" src="https://github.com/user-attachments/assets/f3b193fc-c3e2-4310-aa91-bbea17313753" />
 
 ## 功能
 
