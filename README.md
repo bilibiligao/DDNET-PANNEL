@@ -179,9 +179,6 @@ DDNPANEL/
 | `DDNET_RCON_PORT` | `8304` | DDNet 外部控制台端口 |
 | `DDNET_RCON_PASSWORD` | (必填) | DDNet 外部控制台密码 |
 
-
-```
-
 ## License
 
 MIT
