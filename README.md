@@ -179,23 +179,7 @@ DDNPANEL/
 | `DDNET_RCON_PORT` | `8304` | DDNet 外部控制台端口 |
 | `DDNET_RCON_PASSWORD` | (必填) | DDNet 外部控制台密码 |
 
-### sysctl 内存优化（推荐）
 
-1.7GB 小内存服务器建议配置 ZRAM + swappiness：
-
-```bash
-# /etc/sysctl.conf
-vm.swappiness=80
-vm.vfs_cache_pressure=200
-```
-
-```bash
-# ZRAM 服务
-# 参考: https://wiki.archlinux.org/title/Zram
-echo zstd > /sys/block/zram0/comp_algorithm
-echo 6G > /sys/block/zram0/disksize
-mkswap /dev/zram0
-swapon -p 100 /dev/zram0
 ```
 
 ## License
