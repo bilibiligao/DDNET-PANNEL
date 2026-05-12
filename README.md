@@ -1,6 +1,6 @@
 # MopDDnet WebUI — DDNet 游戏服务器管理面板
 
-基于 React 19 + HeroUI + Vite 6 + Express + WebSocket 的 DDNet 地图服务器 Web 管理面板。UI 设计遵循 NapCatQQ WebUI 风格。
+基于 React 19 + HeroUI + Vite 6 + Express + WebSocket 的 DDNet 地图服务器 Web 管理面板。
 
 ## 功能
 
